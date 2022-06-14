@@ -1,0 +1,216 @@
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\obj\Debug\Assembly-CSharp.dll
+C:\Users\Hector\Documents\Unity\Juego RPG Dev\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\obj\Debug\Assembly-CSharp.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 08\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\obj\Debug\Assembly-CSharp.dll
+C:\Users\Hector\Documents\Unity\Juego RPG - Leccion 10\obj\Debug\Assembly-CSharp.pdb
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\nunit.framework.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEditor.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\Mono.Cecil.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\Unity.DataContract.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.xml
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEditor.xml
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\nunit.framework.xml
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\obj\Debug\Assembly-CSharp.dll
+D:\Downloads\Juego RPG - Leccion 10\Juego RPG - Leccion 10\obj\Debug\Assembly-CSharp.pdb
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\obj\Debug\Assembly-CSharp.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\nunit.framework.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEditor.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.xml
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEditor.xml
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\nunit.framework.xml
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\pedro.henrique\Documents\Zelda TrabCG v2\obj\Debug\Assembly-CSharp.pdb
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\obj\Debug\Assembly-CSharp.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\nunit.framework.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEditor.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.xml
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEditor.xml
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\nunit.framework.xml
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\pedro.henrique\Downloads\Zelda TrabCG v3\obj\Debug\Assembly-CSharp.pdb

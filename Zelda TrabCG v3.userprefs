@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemy.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player.cs" Line="83" Column="13" />
+      <File FileName="Assets\Scripts\Pedra.cs" Line="37" Column="24" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="58" Column="1" />
+      <File FileName="Assets\Scripts\Destroyable.cs" Line="27" Column="6" />
+      <File FileName="Assets\Scripts\FixDepth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainCamera.cs" Line="38" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
